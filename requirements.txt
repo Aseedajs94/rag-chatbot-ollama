@@ -1,0 +1,22 @@
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# LangChain for RAG
+langchain
+langchain-community
+langchain-ollama
+
+# Vector Database
+chromadb
+
+# Document Processing
+pypdf
+python-docx
+openpyxl
+markdown
+docx2txt
+
+# Utils
+python-dotenv
